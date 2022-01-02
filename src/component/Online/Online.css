@@ -1,0 +1,33 @@
+.onlineFriendImage{
+    height: 50px;
+    width: 50px;
+    border-radius:50%;
+    object-fit: cover;
+}
+.onlineFriend{
+    list-style: none;
+    padding: 0px;
+    margin-top: 15px;
+    display:flex;
+    align-items: center;
+
+}
+.onlineFriendsList{
+    margin-top: 20px;
+}
+.greenDot{
+    height: 10px;
+    width: 10px;
+    border-radius:50%;
+    background-color:green;
+    color: green ; 
+    margin-left: -10px;
+    border: 3px solid rgb(252, 245, 248)
+}
+.onlineFriendImageContainer{
+    display: flex;
+
+}
+.OnlineFriendName{
+    margin-left: 15px;
+}
